@@ -27,3 +27,6 @@ elif y > x and y > z:
     print("y is greater")
 else:
     print("z is greater")
+
+a = input("enter any value")
+print(int(a))
