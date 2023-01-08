@@ -10,3 +10,5 @@ DevTools listening on ws://127.0.0.1:52898/devtools/browser/f4ffac72-dfa1-4b6f-a
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
