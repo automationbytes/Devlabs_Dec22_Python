@@ -18,10 +18,19 @@ for f in fromdrop:
         break
 
 driver.find_element(By.ID,"onward_cal").click()
-date = driver.find_elements(By.XPATH, '//table[@class="rb-monthTable first last"]//td')
-for d in date:
-    print(d.text)
-    if d.text == "26":
-        d.click()
-        break
+
+for i in range(12):
+    monthtitle = driver.find_element(By.XPATH,'//td[@class="monthTitle"]').text
+    if "Jun" in monthtitle:
+        date = driver.find_elements(By.XPATH, '//table[@class="rb-monthTable first last"]//td')
+        for d in date:
+            print(d.text)
+            if d.text == "19":
+                d.click()
+                break
+
+    else:
+        driver.find_element(By.XPATH,'//td[@class="next"]/button').click()
+
+
 
