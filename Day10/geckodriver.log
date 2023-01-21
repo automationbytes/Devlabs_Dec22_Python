@@ -1,0 +1,101 @@
+1674269193148	geckodriver	INFO	Listening on 127.0.0.1:65336
+1674269196255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileIqNdCT"
+1674269197496	Marionette	INFO	Marionette enabled
+1674269197504	Marionette	INFO	Listening on port 65350
+Read port: 65350
+WebDriver BiDi listening on ws://127.0.0.1:65337
+1674269197931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileIqNdCT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65337/devtools/browser/1098717c-3909-4c4d-b4e2-10b3d3a6bc5c
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:65488
+1674269248785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilepRZ1ms"
+1674269249447	Marionette	INFO	Marionette enabled
+1674269249458	Marionette	INFO	Listening on port 65502
+Read port: 65502
+WebDriver BiDi listening on ws://127.0.0.1:65489
+1674269249830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilepRZ1ms\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65489/devtools/browser/9e4d3178-632c-4e22-8170-1c2d28686b97
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49313
+1674269312117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileveUtES"
+1674269312726	Marionette	INFO	Marionette enabled
+1674269312736	Marionette	INFO	Listening on port 49329
+Read port: 49329
+WebDriver BiDi listening on ws://127.0.0.1:49314
+1674269313019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileveUtES\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49314/devtools/browser/8cc7f95c-f466-4e2b-a37d-06f8d4888a81
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49558
+1674269425204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileUHm4P2"
+1674269425907	Marionette	INFO	Marionette enabled
+1674269425915	Marionette	INFO	Listening on port 49577
+Read port: 49577
+WebDriver BiDi listening on ws://127.0.0.1:49559
+1674269426649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileUHm4P2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49559/devtools/browser/a2902748-f52e-4be7-a605-bdc010da0944
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49813
+1674269541866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilehF2GdT"
+1674269542470	Marionette	INFO	Marionette enabled
+1674269542484	Marionette	INFO	Listening on port 49828
+Read port: 49828
+WebDriver BiDi listening on ws://127.0.0.1:49814
+1674269542809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilehF2GdT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49814/devtools/browser/d575f35a-0032-466e-915e-4f703c0d8e25
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49990
+1674269603551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileXMmYih"
+1674269604246	Marionette	INFO	Marionette enabled
+1674269604257	Marionette	INFO	Listening on port 50065
+Read port: 50065
+WebDriver BiDi listening on ws://127.0.0.1:49991
+1674269604606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileXMmYih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49991/devtools/browser/faafcc5f-33d3-499a-af0e-7be8dd2b4562
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.redbus.in/ line 1 > injectedScript, line 10: TypeError: _taq.do_webpush_registration is not a function
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50459
+1674269741182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilen9cmrp"
+1674269741954	Marionette	INFO	Marionette enabled
+1674269741965	Marionette	INFO	Listening on port 50474
+Read port: 50474
+WebDriver BiDi listening on ws://127.0.0.1:50460
+1674269742761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilen9cmrp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50460/devtools/browser/f894b183-1d99-49e4-9004-99be9b9a07b4
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50670
+1674269817995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile9RjHNk"
+1674269818799	Marionette	INFO	Marionette enabled
+1674269818809	Marionette	INFO	Listening on port 50688
+Read port: 50688
+WebDriver BiDi listening on ws://127.0.0.1:50671
+1674269819205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile9RjHNk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50671/devtools/browser/82842eb9-7b47-4489-bf9d-433245020969
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
