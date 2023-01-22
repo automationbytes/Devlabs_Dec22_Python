@@ -99,3 +99,18 @@ JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b1
 JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674270715909	geckodriver	INFO	Listening on 127.0.0.1:51441
+1674270718970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileNQuBjX"
+1674270719526	Marionette	INFO	Marionette enabled
+1674270719536	Marionette	INFO	Listening on port 51455
+Read port: 51455
+WebDriver BiDi listening on ws://127.0.0.1:51442
+1674270719768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileNQuBjX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51442/devtools/browser/64eb4fdc-ed57-4bd5-8618-1ca1b5a71cd3
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.9cc099e201af0a158b15.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1674277661660	Marionette	INFO	Stopped listening on port 51455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
